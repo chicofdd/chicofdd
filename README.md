@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @chicofdd
+- 👋 Hi, I’m @xico.05
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning coding, excel, access
-- 📫 How to reach me- francisco04112005@gmail.com
+- 🌱 I’m currently learning coding, excel, access and hardware schematics, also arduino
+- 📫 How to reach me- francisco041105@gmail.com
 
 <!---
 chicofdd/chicofdd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
